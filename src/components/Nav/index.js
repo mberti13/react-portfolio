@@ -1,6 +1,8 @@
 import React, { useEffect } from 'react';
 
 import { validateEmail, capitalizeFirstLetter } from '../../utils/helpers';
+// TODO: conditionally render 4 categories 
+
 
 function Nav(props) {
     const {
